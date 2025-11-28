@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Tamil Vanigar Peravai",
+  "description": "A comprehensive platform for Tamil merchants, entrepreneurs, and business assistants, featuring history, commerce connections, AI-powered Q&A, and business management tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
